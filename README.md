@@ -16,7 +16,7 @@ O que funciona:
 
 - Versão desktop
 
-![image](https://user-images.githubusercontent.com/81184973/126021799-2ad34d6c-11de-44be-83e2-b2fec7ca8ea3.png)
+![image](https://user-images.githubusercontent.com/83232317/131231277-42df50a4-5204-4b19-be13-17fe1807d73b.png)
 ![image](https://user-images.githubusercontent.com/81184973/126021807-d3a05ca8-9a41-4a41-89fb-0dfad3c605e4.png)
 ![image](https://user-images.githubusercontent.com/81184973/126021816-9d411272-6dd9-4001-8477-24ce78ccca73.png)
 ![image](https://user-images.githubusercontent.com/81184973/126021822-e8f3746c-0c17-49e4-a590-3f02bedd6ab1.png)
