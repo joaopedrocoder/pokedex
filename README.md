@@ -1,9 +1,7 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Larissa Menezes
 - João Pedro Lopes Rodrigues
-- Raphael Nicolini da Silva
 - Igor Artagnan
 
 Link do Surge: https://bright-smile.surge.sh/
@@ -13,6 +11,7 @@ O que funciona:
 - Adicionar pokemons a pokedex
 - Remover pokemons da pokedex
 - Ver detalhes dos pokemons
+- Pesquisar Pokemons
 - Responsividade:
 
 - Versão desktop
