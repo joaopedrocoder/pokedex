@@ -4,7 +4,7 @@ Nome dos integrantes:
 - João Pedro Lopes Rodrigues
 - Igor Artagnan
 
-Link do Surge: scared-blood.surge.sh
+Link do Surge: political-letter.surge.sh
 
 O que funciona:
 - Renderização dos pokemons
