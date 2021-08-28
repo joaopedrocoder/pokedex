@@ -4,7 +4,7 @@ Nome dos integrantes:
 - João Pedro Lopes Rodrigues
 - Igor Artagnan
 
-Link do Surge: https://bright-smile.surge.sh/
+Link do Surge: scared-blood.surge.sh
 
 O que funciona:
 - Renderização dos pokemons
