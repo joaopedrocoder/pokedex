@@ -32,7 +32,9 @@ const HomePage = () => {
         history.push(`/details/${pokeNome}`)
     }
 
-    const pokemonsFiltrados = global.pokemons.filter((pokemon)=> pokemon.name.toLowerCase().includes(searchValue.toLowerCase()))
+    const toLowerSearch = searchValue.toLowerCase()
+
+    const pokemonsFiltrados = global.pokemons.filter((pokemon)=> pokemon.name.toLowerCase().includes(toLowerSearch))
     .filter((pokemon) => {
         const pokedex = global.pokedex.find((pokemonEscolhido) => {
             if (pokemon.id === pokemonEscolhido.id) {
@@ -74,7 +76,7 @@ const HomePage = () => {
                 </ContainerSearch>
                 
                 <ConatinerCards>
-                    {pokemonsFiltrados.length > 1 ? pokemonsFiltrados.map((pokemon) => {
+                    {pokemonsFiltrados.length > 0 ? pokemonsFiltrados.map((pokemon) => {
                         return (
                             <li key={pokemon.id}>
                                 <PokeCard
